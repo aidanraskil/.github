@@ -1,3 +1,7 @@
+<p align="center"><a href="https://aidanraskil.my" target="_blank"><img src="https://github.com/aidanraskil/.github/blob/main/docs/images/aidanraskil_500.png?raw=true" width="400"></a></p>
+
+## About Aidanraskil
+
 ## Hi there 👋
 
 <!--
