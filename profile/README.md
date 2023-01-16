@@ -2,8 +2,7 @@
 
 ## About Aidanraskil
 
-## Hi there 👋
-
+You can also sponsor our open source work [via GitHub Sponsors](https://github.com/sponsors/aidanraskil).
 <!--
 
 **Here are some ideas to get you started:**
