@@ -1,8 +1,5 @@
 <p align="center"><a href="https://aidanraskil.my" target="_blank"><img src="https://github.com/aidanraskil/.github/blob/main/docs/images/aidanraskil_500.png?raw=true" width="400"></a></p>
 
-## About Aidanraskil
-
-You can also sponsor our open source work [via GitHub Sponsors](https://github.com/sponsors/aidanraskil).
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,4 +9,5 @@ You can also sponsor our open source work [via GitHub Sponsors](https://github.c
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 -->
